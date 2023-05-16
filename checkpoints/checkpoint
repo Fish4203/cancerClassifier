@@ -1,2 +1,2 @@
-model_checkpoint_path: "cbase"
-all_model_checkpoint_paths: "cbase"
+model_checkpoint_path: "multi3"
+all_model_checkpoint_paths: "multi3"
