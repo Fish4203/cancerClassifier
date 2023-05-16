@@ -1,2 +1,2 @@
-model_checkpoint_path: "multi3"
-all_model_checkpoint_paths: "multi3"
+model_checkpoint_path: "c4"
+all_model_checkpoint_paths: "c4"
